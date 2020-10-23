@@ -1,6 +1,6 @@
 #学习总结
    
-   ##切题四件套：
+   ## 切题四件套：
      1. clarification 看清题，理解透彻
      2. possible solutions 所有解题思路过一遍，再动手比较、找最优化
      3. coding 多写
